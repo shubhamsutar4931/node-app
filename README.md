@@ -4,7 +4,11 @@
   - Express
   - Mongo DB
   - GitHub
+
+
 ## Tools
   - VS Code
+  - Jira
+  - Agile
+  - Jenkin
   - Intellige
-
